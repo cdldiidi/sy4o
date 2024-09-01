@@ -14,7 +14,7 @@ GPT-4o是OpenAI最新发布的顶级生成模型，具备接受文本、音频�
 
 ### 方法一：官网直接使用GPT-4o
 
-GPT-4o是免费的，登录ChatGPT官网即可访问。前提是你需要一个ChatGPT账号，如果没有账号，可以参考[ChatGPT注册教程](https://bit.ly/WildCardo)快速创建。
+GPT-4o是免费的，登录ChatGPT官网即可访问。前提是你需要一个ChatGPT账号，如果没有账号，可以参考ChatGPT注册教程快速创建。
 
 访问网址：[https://chatgpt.com/?model=gpt-4o](https://chatgpt.com/?model=gpt-4o)
 
